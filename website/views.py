@@ -1,6 +1,7 @@
 from django.shortcuts import render
 
 # Create your views here.
+# Hadis
 
 def test(request):
     return render(request, 'website/test.html')
