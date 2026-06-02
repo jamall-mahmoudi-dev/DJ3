@@ -3,3 +3,5 @@ venv
 .password
 node_modules/
 .env
+*.env
+*API_KEY
